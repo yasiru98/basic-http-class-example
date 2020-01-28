@@ -9,7 +9,7 @@
     "pretest": "eslint ./src --fix"
   },
   "engines": {
-    "node": "12.13.1",
+    "node": "12.14.1",
     "npm": "6.12.1"
   },
   "repository": {
