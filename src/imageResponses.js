@@ -5,6 +5,6 @@ const getImg = (request, response) => {
     response.writeHead(200, { 'content-type': 'image/png' });
     response.write(sponge);
     response.end();
-  };
+};
 
 module.exports.getImg = getImg;
